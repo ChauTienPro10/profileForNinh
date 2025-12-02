@@ -1,0 +1,38 @@
+Mục	Lĩnh vực	Yêu cầu Dữ liệu
+I. THÔNG TIN CÁ NHÂN	Tên Đầy Đủ	Snoopy
+	Số Điện Thoại	0856980529
+	Email	17153054ninh@gmail.com
+II. HỒ SƠ WEB3	X (Twitter) Handle	@NinhNinh99QN
+	Discord Username	"@snoopyvn07
+"
+	Địa chỉ Ví Công khai (EVM)	0xC864b17e5B91f53Df6be14F141737B9b29de575a
+III. TÓM TẮT CHUYÊN MÔN	Mô tả Bản thân	"Onchain: Moderator, Ambassador and Content creator
+Offchain: Mechanics enginee"
+IV. KINH NGHIỆM MOD/ADMIN	Dự án 1 (Tên & Loại)	Openmind (Machine Learning and Robotics)
+	Dự án 1 (Thời gian)	08/2024 – Hiện tại]
+	Dự án 1 (Trách nhiệm Chính)	[Moderator
+	Dự án 1 (Thành tựu Số liệu)	Proactively support hundreds of member inquiries daily by providing accurate and timely project-related information. Simultaneously, ensure community safety through strict moderation, promptly removing spam and scam accounts, maintaining a reliable and positive discussion environment. I also serve as a vital information bridge between the community and the development team, collecting feedback and organizing engaging events (such as AMAs, minigames) to boost member loyalty and educate them on critical project updates.
+	Dự án 2 (Tên & Loại)	Opetimum ( mump2p)
+	Dự án 2 (Thời gian)	04/2024 – Hiện tại]
+	Dự án 2 (Trách nhiệm Chính)	Content creator and community support
+	Dự án 2 (Thành tựu Số liệu)	Role: Real OG
+	Dự án 3 (Tên & Loại)	Seismic
+	Dự án 3 (Thời gian)	04/2024 – Hiện tại]
+	Dự án 3 (Trách nhiệm Chính)	Content creator and community support
+	Dự án 3 (Thành tựu Số liệu)	Role: Manitude 5
+	Dự án 4 (Tên & Loại)	Mimboku
+	Dự án 4 (Thời gian)	10/2023 – 3/2024
+	Dự án 4 (Trách nhiệm Chính)	Content creator and community support
+	Dự án 4 (Thành tựu Số liệu)	Role: OG
+		
+VI. KỸ NĂNG CỐT LÕI	Kỹ năng Cộng đồng & Mềm	"Conflict Resolution
+Crisis Management
+Engagement Facilitation
+Relationship Building
+Active Listening
+Effective Communication
+Tone Management"
+	Kỹ năng Kỹ thuật & Web3	EVM, DeFi, Bot Mod
+	Công cụ Đã Sử dụng	 Discord, Notion, Canva, MEE6, X
+	Ngôn ngữ	Vietnamese (Native), English (Reading, Writing)
+VII. HỌC VẤN & KHÓA HỌC	NLU	Mechanics engineer
