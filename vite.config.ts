@@ -7,10 +7,10 @@
 // })
 
 
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
 export default defineConfig({
+  base: '/profileForNinh/', // Tên repo trên GitHub
   plugins: [react()],
-  base: '/portfolio/',   // <=== THAY BẰNG TÊN REPO CỦA BẠN
-})
+});
