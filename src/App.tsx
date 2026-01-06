@@ -3,6 +3,7 @@ import openmintLogo from './assets/Openmint.jpg'
 import optimumLogo from './assets/Optimum.jpg'
 import seismicLogo from './assets/Seismic.jpg'
 import mimbokuLogo from './assets/Mimboku.png'
+import bitrobotLogo from './assets/bitrobot.png'
 import myAvatar from './assets/myavatar.jpg'
 
 function App() {
@@ -189,7 +190,7 @@ function App() {
                 <img src={openmintLogo} className="project-logo" alt="Openmind logo" />
                 <div className="project-header-text">
                   <span className="pill defi">Community • AI / Robotics</span>
-                  <h3>Openmind (Robotics)</h3>
+                  <h3 style={{color: '#6366f1'}}>Openmind (Robotics)</h3>
                 </div>
               </div>
               <p className="project-description">
@@ -197,8 +198,8 @@ function App() {
                 new technologies.
               </p>
               <ul className="project-details">
-                <li>Time: 08/2024 – Present</li>
-                <li>Role: Moderator</li>
+                <li><strong style={{color: '#00d4aa'}}>Time: 08/2024 – Present</strong></li>
+                <li><strong style={{color: '#f59e0b'}}>Role: Moderator</strong></li>
                 <li>
                   Achievements: Proactively support hundreds of questions daily, keep the community safe by
                   handling spam/scam, act as an information bridge between dev team and community, and organize
@@ -206,7 +207,7 @@ function App() {
                 </li>
               </ul>
               <div className="project-footer">
-                <span>Role: Moderator</span>
+                <span style={{color: '#8b5cf6'}}>Role: Moderator</span>
               </div>
             </article>
 
@@ -215,19 +216,19 @@ function App() {
                 <img src={optimumLogo} className="project-logo" alt="Optimum logo" />
                 <div className="project-header-text">
                   <span className="pill nft">mump2p • Community</span>
-                  <h3>Optimum</h3>
+                  <h3 style={{color: '#ec4899'}}>Optimum</h3>
                 </div>
               </div>
               <p className="project-description">
                 A mump2p project with a dynamic community, focusing on user experience and on-chain activities.
               </p>
               <ul className="project-details">
-                <li>Time: 04/2024 – Present</li>
-                <li>Role: Content creator & community support</li>
-                <li>Achievement: Recognized as Real OG in the community.</li>
+                <li><strong style={{color: '#00d4aa'}}>Time: 04/2024 – Present</strong></li>
+                <li><strong style={{color: '#f59e0b'}}>Role: Content creator & community support</strong></li>
+                <li><span style={{color: '#10b981'}}>Achievement: Recognized as Real OG in the community.</span></li>
               </ul>
               <div className="project-footer">
-                <span>Role: Real OG</span>
+                <span style={{color: '#8b5cf6'}}>Role: Real OG</span>
               </div>
             </article>
 
@@ -236,18 +237,18 @@ function App() {
                 <img src={seismicLogo} className="project-logo" alt="Seismic logo" />
                 <div className="project-header-text">
                   <span className="pill bot">Community</span>
-                  <h3>Seismic</h3>
+                  <h3 style={{color: '#ef4444'}}>Seismic</h3>
                 </div>
               </div>
               <p className="project-description">
                 A Web3 community where I create content and support members, helping build a loyal core user base.
               </p>
               <ul className="project-details">
-                <li>Time: 04/2024 – Present — Role: Manitude 5.</li>
-                <li>Tasks: Content creator & community support.</li>
+                <li><strong style={{color: '#00d4aa'}}>Time: 04/2024 – Present</strong> — <strong style={{color: '#f59e0b'}}>Role: Manitude 6</strong>.</li>
+                <li><span style={{color: '#06b6d4'}}>Tasks: Content creator & community support.</span></li>
               </ul>
               <div className="project-footer">
-                <span>Role: Manitude 5</span>
+                <span style={{color: '#8b5cf6'}}>Role: Manitude 6</span>
               </div>
             </article>
 
@@ -256,18 +257,41 @@ function App() {
                 <img src={mimbokuLogo} className="project-logo" alt="Mimboku logo" />
                 <div className="project-header-text">
                   <span className="pill bot">Community</span>
-                  <h3>Mimboku</h3>
+                  <h3 style={{color: '#f97316'}}>Mimboku</h3>
                 </div>
               </div>
               <p className="project-description">
                 A Web3 community where I contributed as an OG, supporting user growth and content creation.
               </p>
               <ul className="project-details">
-                <li>Time: 10/2023 – 03/2024 — Role: OG.</li>
-                <li>Tasks: Content creator & community support.</li>
+                <li><strong style={{color: '#00d4aa'}}>Time: 10/2023 – 03/2024</strong> — <strong style={{color: '#f59e0b'}}>Role: OG</strong>.</li>
+                <li><span style={{color: '#06b6d4'}}>Tasks: Content creator & community support.</span></li>
               </ul>
               <div className="project-footer">
-                <span>Role: OG</span>
+                <span style={{color: '#8b5cf6'}}>Role: OG</span>
+              </div>
+            </article>
+
+            <article className="card project-card">
+              <div className="project-header">
+                <img src={bitrobotLogo} className="project-logo" alt="Bitrobotfield logo" />
+                <div className="project-header-text">
+                  <span className="pill bot">Community • Robotics</span>
+                  <h3 style={{color: '#3b82f6'}}>Bitrobotfield</h3>
+                </div>
+              </div>
+              <p className="project-description">
+                A robotics-focused Web3 community where I serve as Head Bot, ensuring a healthy and engaging environment for all members.
+              </p>
+              <ul className="project-details">
+                <li><strong style={{color: '#00d4aa'}}>Time: tháng 12 năm 2025 – Present</strong></li>
+                <li><strong style={{color: '#f59e0b'}}>Role: Head Bot (Moderator)</strong></li>
+                <li>
+                  <span style={{color: '#06b6d4'}}>Mission: Managing chats & checking spam, making the text environment healthy & clean, hosting gratic games & rumble events, and working alongside team to manage this community.</span>
+                </li>
+              </ul>
+              <div className="project-footer">
+                <span style={{color: '#8b5cf6'}}>Role: Head Bot</span>
               </div>
             </article>
 
